@@ -4,3 +4,5 @@
 4s, 4p, 4d, 4f
 5s, 5p, 5d, 5f
 degisik
+
+test kanalı için
